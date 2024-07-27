@@ -26,4 +26,4 @@ y = np.array([3, 7, 11, 15, 19])
 ```
 
 Salida esperada:
-$f(x) = 2 x_1 + 2 x_2 + 3$
+$f(x_1, x_2) = 2 x_1 + 2 x_2 + 3$
