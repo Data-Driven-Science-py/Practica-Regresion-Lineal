@@ -2,6 +2,8 @@
 
 Implementacion de descenso de gradiente(numpy), limpieza de datos (pandas), modelado(scikit-learn), visualizacion de datos (matplotlib).
 
+![image](gradiente.png)
+
 # Tarea 1
 - [Prediccion de salario](https://www.kaggle.com/datasets/krishnaraj30/salary-prediction-data-simple-linear-regression)
 - [Prediccion de puntaje](https://www.kaggle.com/datasets/himanshunakrani/student-study-hours)
